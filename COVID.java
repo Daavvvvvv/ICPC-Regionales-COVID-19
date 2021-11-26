@@ -57,7 +57,7 @@ class Messages {
     }
 }
 
-class CovidMejorado {
+class COVID {
 
     // Las dos variables variables principales
     public static int casos;
